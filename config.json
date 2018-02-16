@@ -1,0 +1,22 @@
+{
+  "fromEmail": "no-reply@nbsapforum.net",
+  "subjectPrefix": "",
+  "emailBucket": "nbsap-forum",
+  "emailKeyPrefix": "emails/",
+  "forwardMapping": {
+    "admin@nbsapforum.net": [
+      "ckm2k1@gmail.com",
+      "jervin@sover.net",
+      "nbsap.support@cbd.int",
+      "NBSAPHelpdesk@unep-wcmc.org",
+      "christina.supples@undp.org"
+    ],
+    "helpdesk@nbsapforum.net": [
+        "jamison.ervin@undp.org",
+        "john.tayleur@unep-wcmc.org",
+        "nbsap.support@cbd.int",
+        "NBSAPHelpdesk@unep-wcmc.org",
+        "christina.supples@undp.org"
+    ]
+  }
+}

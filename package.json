@@ -1,0 +1,8 @@
+{
+  "name": "NBSAP-Forum inbound emails",
+  "description": "NBSAP-Forum inbound emails handler with AWS lambda",
+  "dependencies": {
+    "aws-lambda-ses-forwarder": "^4.2.0"
+  },
+  "engine": "node >= 6.0"
+}
